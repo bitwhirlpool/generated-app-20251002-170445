@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-cognicore-ai-studio-23e7c1d8-e2b6-4af9-acb9-e704d7ec7fcd",
+	"name": "super-ai",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"compatibility_flags": ["nodejs_compat"],
